@@ -1,0 +1,4 @@
+Cash: 34 | Credit: 34 | Expenses: 34
+Cash: 2 | Credit: 35 | Expenses: 534
+Total: -463.0
+Total: -463.0
